@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/adam/Development/CSC320-mmap-APCR/main.c" "/home/adam/Development/CSC320-mmap-APCR/cmake-build-debug/CMakeFiles/CSC320_mmap_APCR.dir/main.c.o"
+  "/home/kaepaken/Development/CSC320-mmap-APCR/main.c" "/home/kaepaken/Development/CSC320-mmap-APCR/cmake-build-debug/CMakeFiles/CSC320_mmap_APCR.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
